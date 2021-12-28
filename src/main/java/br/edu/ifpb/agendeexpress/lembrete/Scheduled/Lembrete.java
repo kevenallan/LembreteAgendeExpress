@@ -28,7 +28,7 @@ public class Lembrete {
 	private HorarioRepository horarioRepository;
 	
 //	@Scheduled(fixedRate = 10000)
-	@Scheduled(cron = "0 10 11 * * *" )
+	@Scheduled(cron = "0 0 7 * * *" )
 	public void x() {
 		LocalDate data = LocalDate.now();
 		List<Horario> horarioLista = this.horarioRepository.buscarHorarioPorDia(data.getYear(), data.getMonthValue(), data.getDayOfMonth()+1);
