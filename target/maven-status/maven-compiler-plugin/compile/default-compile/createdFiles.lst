@@ -1,0 +1,11 @@
+br\edu\ifpb\agendeexpress\lembrete\Model\Cliente$ClienteBuilder.class
+br\edu\ifpb\agendeexpress\lembrete\Model\Horario$HorarioBuilder.class
+br\edu\ifpb\agendeexpress\lembrete\Repository\EmpresaRepository.class
+br\edu\ifpb\agendeexpress\lembrete\Scheduled\Lembrete.class
+br\edu\ifpb\agendeexpress\lembrete\Model\Horario.class
+br\edu\ifpb\agendeexpress\lembrete\LembreteApplication.class
+br\edu\ifpb\agendeexpress\lembrete\Repository\HorarioRepository.class
+br\edu\ifpb\agendeexpress\lembrete\Model\Empresa$EmpresaBuilder.class
+br\edu\ifpb\agendeexpress\lembrete\Model\Cliente.class
+br\edu\ifpb\agendeexpress\lembrete\Model\Empresa.class
+br\edu\ifpb\agendeexpress\lembrete\Repository\ClienteRepository.class
